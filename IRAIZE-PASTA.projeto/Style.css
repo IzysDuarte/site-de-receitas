@@ -1,0 +1,295 @@
+
+*{
+    
+     background-color: #F8F3E0;
+}
+
+body{
+     text-align: center;
+     background-color:#F7E0D8;
+     padding: 20px;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+     padding-top: 10px;
+     }
+     
+     
+     h6{
+     border: none;
+     font-weight: bold;
+     font-size:40px;
+     font-family:amatic sc;
+     color: #D95F80;
+     text-align: center;
+     margin-bottom: 50px;
+     
+     }
+     */
+     
+     /*LOGO AMÉLIE*/
+     .imgheader{
+       float: left;
+     
+     }
+     
+.cabeçalho{
+
+     background-color: #F8F3E0;
+     overflow: hidden;
+     background-attachment: fixed;
+     position: relative;  
+     text-align: center;
+     background-repeat: no-repeat;
+     background-position: bottom ;
+     background-size: cover;
+     padding-top: 0px;
+     padding-right: 30px;
+     padding-bottom: 50px;
+     padding-left: 80px;
+     
+}
+ 
+.cabeçalho h2{
+
+     background: rgba(255,255, 255, 0.8);
+     padding: 30px;  
+}
+
+.cabeçalho a{
+     
+     background-color: #C8E6C9;
+     padding: 20px;
+     text-decoration: none;
+     border-radius: 10px;
+     padding-bottom: 10px;
+     padding-top: 10px;
+     margin:10px;
+     font-weight: bold;
+     
+     
+     }
+     .cabeçalho a:hover{
+
+          background-color:#E1BEE7;
+     }
+
+
+
+ /*nav*/
+ .nav-link{
+     background-color: #C8E6C9;
+     padding: 20px;
+     text-decoration: none;
+     border-radius: 10px;
+     padding-bottom: 10px;
+     padding-top: 10px;
+     margin:10px;   
+     color:#D95F80;
+     font-family: amatic sc;  
+     font-weight: bold;
+ }    
+
+ .nav-item a:hover{
+
+     background-color:#E1BEE7;
+
+ }
+
+
+
+/*buscador
+.divBusca{
+     background-color:#F2C9CC;
+     border:none;
+     border-radius:10px;
+     width:300px;
+     height: 50px;
+     margin-top: 10px;
+     margin-bottom: 5px;
+   }
+   
+   .txtBusca{
+     float:left;
+     background-color:transparent;
+     padding-left:5px;
+     font-style:italic;
+     font-size:18px;
+     border:none;
+     height:32px;
+     width:250px;
+     font-family: "Baloo Bhaijaan 2"; 
+     
+   } 
+
+   .btnBusca{
+background-color:#F2C9CC ;
+
+
+   }
+.btnlupa{
+     border:none;
+     background-color:#F2C9CC ;
+     border-radius:10px;
+
+}
+*/
+
+ /*carousel*/
+    
+ .carousel, .slide{
+     
+     margin-bottom: 5px;
+     
+ }
+.titulocarousel{
+color:#BE9ABE;
+font-family: "amatic sc"; 
+font-size: 50px;
+
+
+}
+
+.pcarousel{
+
+font-family: "Baloo Bhaijaan 2"; 
+color: #BE9ABE;
+
+}
+
+
+/*Dicas da Amélie*/
+.titulodicas{
+     padding-top: 10px;
+     color: #BE9ABE;
+     margin-bottom: 30px;
+     background: transparent;
+}
+.card-columns{
+     background-color:#F7E0D8;
+}
+
+.card-text{
+     font-family: "Baloo Bhaijaan 2";    
+     text-align: justify;
+     font-size: 20px;
+}
+
+.txdicasp{
+padding-top: 20px;
+text-align: center;
+color: #BE9ABE;
+font-family: "Baloo Bhaijaan 2";
+
+}
+
+.card-title{
+     text-align: center;
+color: #BE9ABE;
+font-family: "Baloo Bhaijaan 2";
+}
+
+/*footer*/
+
+ .txfooter{
+
+font-family: "Baloo Bhaijaan 2";
+color:#9298BA;
+font-size: 20px;
+text-align: justify; 
+
+ }
+
+ .text-reset{
+     font-family: "Baloo Bhaijaan 2";
+     color:#9298BA;
+     font-size: 20px;   
+ }
+ 
+ .whatsfooter{
+     font-family: "Baloo Bhaijaan 2";
+     color:#9298BA;
+     font-size: 20px;
+ }
+
+ .text-lg-start{
+padding-top: 10px;
+
+ }
+ 
+ 
+/*Receitas do Mundo*/
+
+.card-deck{
+
+     background-color: #F7E0D8;
+}
+
+.btn, .btn-light{
+
+     background-color: #D95F80;
+     border:none;
+     color: white;
+}
+
+/*Receitas com Restrições*/
+
+   .iconsfree{
+
+     text-align: center;
+     float:inline-end;
+     width: 30%;
+     text-align: left;
+     font-style: italic;
+     font-size: smaller;
+     border: none;
+     margin: 10px;
+     padding: 20px;
+   }
+
+
+
+
+/*Página de Cadastro*/
+
+.cadastro1{
+ background-color: white;
+
+}
+
+.cadastro1 img{
+width: 5%;
+
+
+}
+
+.pergunta{
+
+     text-align: center;
+     font-family: amatic SC;
+     font-size: 30px;
+     color:pink;
+   
+}  
+
+.form label{
+
+     font-family: amatic SC;
+     font-size: 30px;
+     color:pink;
+
+}
+/*Página de Login*/
+
+.login1 img{
+     width: 5%;
+
+}
+
+
+
+
+
+
+
+
